@@ -1,1 +1,1 @@
-Teste de double click no mouse.
+Test double click mouse.
